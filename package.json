@@ -2,9 +2,9 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "App.html",
+ "main": "App.js",
   "scripts": {
-    "start": "parcel build public/index.html"
+    "start": "parcel public/index.html"
   },
   
   "author": "Tushar Sahani",
