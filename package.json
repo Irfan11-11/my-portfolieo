@@ -4,7 +4,7 @@
   "description": "",
   "main": "App.js",
   "scripts": {
-    "start": "parcel build public/index.html"
+    "start": "parcel build src/App.js"
   },
   "repository": {
     "type": "git",
