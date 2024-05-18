@@ -4,7 +4,7 @@
   "description": "",
   "main": "App.js",
   "scripts": {
-    "start": "parcel build src/App.js"
+    "start": "parcel build public/index.html"
   },
   
   "author": "Tushar Sahani",
