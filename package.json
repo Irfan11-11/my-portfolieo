@@ -6,16 +6,13 @@
   "scripts": {
     "start": "parcel build src/App.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tushar-sahani/portfolio.git"
-  },
+  
   "author": "Tushar Sahani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tushar-sahani/portfolio/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Tushar-sahani/portfolio#readme",
+  "homepage": "",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.1",
